@@ -102,6 +102,13 @@ z-index: 22;
 font-weight: 700;
 color: black;
 letter-spacing:0.03em
+
+}
+span{
+	position: absolute;
+	font-size: 15px;
+	margin-left: -40px;
+	letter-spacing:0;
 }
 .logotype{
 	position: relative;
