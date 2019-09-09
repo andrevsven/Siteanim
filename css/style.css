@@ -116,3 +116,14 @@ span{
 	z-index: 929;
 	text-align: center;
 }
+.work{
+	margin-top: 140px;
+	display: flex;
+	align-items: center;
+}
+.work__item{
+	text-align: center;
+}
+.work_img{
+	width: 350px;
+}
